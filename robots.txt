@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apsny-one.online/sitemap.xml
